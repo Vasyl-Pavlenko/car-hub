@@ -9,7 +9,6 @@
 - Getting Started
 - Usage
 - Contributing
-- License
 
 ## Overview
 The Car Rental App is a web application that allows users to rent cars, search for available vehicles based on make, model, year, and fuel type, and navigate through paginated results. It utilizes Next.js for server-side rendering (SSR), React for the front-end, Tailwind CSS for styling, and the IMAGIN.studio API for car data.
@@ -33,8 +32,8 @@ To run the Car Rental App locally on your machine, follow these steps:
 1. Clone the GitHub repository:
 
 ```sh
-git clone https://github.com/your-github-repo-link.git
-cd car-rental-app
+git clone https://github.com/Vasyl-Pavlenko/car-hub
+cd car-hub
 ```
 
 2. Install dependencies:
